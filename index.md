@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Education
 - underground SPbU student of program "Software engineering"
  
